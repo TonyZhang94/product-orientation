@@ -1,0 +1,147 @@
+F:\Environment\Anaconda3\python.exe G:/product-orientation/main.py
+result/pcid4cid50012097/ is exist
+read settings...
+
+输入brand:
+1号宝贝
+
+输入model:
+OUYOU0011
+
+输入是否正确？输入‘#’重新输入:
+1
+
+Distance:
+婴儿辅食 0.33652851225034425
+全自动 0.268969855537011
+小容量 0.34526782304393944
+手持 0.565366386841437
+智能 0.0816065336252854
+
+Similarity:
+婴儿辅食 21.06 %
+全自动 16.83 %
+小容量 21.61 %
+手持 35.39 %
+智能 5.11 %
+
+image url: http://img.alicdn.com/imgextra/i2/3480261630/TB2hsDSjdnJ8KJjSszdXXaxuFXa_!!3480261630.jpg
+
+输入brand:
+bear/小熊
+
+输入model:
+LLJ-A12Q3
+
+输入是否正确？输入‘#’重新输入:
+1
+
+Distance:
+婴儿辅食 -0.7200799775317387
+全自动 -0.6579180900394908
+小容量 -0.7210634258276319
+手持 -0.8484652525440884
+智能 -0.49001083361413145
+
+Similarity:
+婴儿辅食 20.95 %
+全自动 19.14 %
+小容量 20.98 %
+手持 24.68 %
+智能 14.25 %
+
+image url: http://img.alicdn.com/imgextra/i3/2086365720/TB1SIzCmV9gSKJjSspbXXbeNXXa_!!0-item_pic.jpg
+
+输入brand:
+braun/博朗
+
+输入model:
+MQ785
+
+输入是否正确？输入‘#’重新输入:
+1
+请输入正确的brand和model！
+
+输入brand:
+braun/博朗
+
+输入model:
+ MQ785
+
+输入是否正确？输入‘#’重新输入:
+1
+
+Distance:
+婴儿辅食 -0.9912517728048887
+全自动 -0.9794753800956575
+小容量 -0.9879872050793183
+手持 -0.9189940739691518
+智能 -0.8726029301428401
+
+Similarity:
+婴儿辅食 20.87 %
+全自动 20.62 %
+小容量 20.8 %
+手持 19.35 %
+智能 18.37 %
+
+image url: http://img.alicdn.com/imgextra/i4/2829060891/TB2keh8aPmfF1JjSspcXXXZMXXa_!!2829060891.jpg
+
+输入brand:
+
+
+F:\Environment\Anaconda3\python.exe G:/product-orientation/main.py
+result/pcid4cid50012097/ is exist
+read settings...
+
+输入brand:
+fornonr/方奈优品
+
+输入model:
+FN-800
+
+输入是否正确？输入‘#’重新输入:
+1
+
+Distance:
+婴儿辅食 0.4739651080179777
+全自动 0.548323459833984
+小容量 0.45399544560130983
+手持 0.0870474074990627
+智能 0.7489287098599587
+
+Similarity:
+婴儿辅食 20.5 %
+全自动 23.71 %
+小容量 19.63 %
+手持 3.76 %
+智能 32.39 %
+
+image url: http://img.alicdn.com/imgextra/i3/62150572/TB24pgseRnTBKNjSZPfXXbf1XXa_!!62150572.jpg
+
+输入brand:
+fronton/弗朗顿
+
+输入model:
+CB-666D
+
+输入是否正确？输入‘#’重新输入:
+1
+
+Distance:
+婴儿辅食 0.22050124188709505
+全自动 0.2710180348755241
+小容量 0.2163334795294062
+手持 0.007282041042025229
+智能 0.33820087676770416
+
+Similarity:
+婴儿辅食 20.93 %
+全自动 25.73 %
+小容量 20.54 %
+手持 0.69 %
+智能 32.11 %
+
+image url: http://img.alicdn.com/imgextra/i3/2808232987/TB2gvzKquuSBuNjSsziXXbq8pXa_!!2808232987.jpg
+
+输入brand:
