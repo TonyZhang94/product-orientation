@@ -76,5 +76,5 @@ class FeatureType(object):
     discrete_type = []
     discrete_type = set(discrete_type)
 
-    mul_dis_type = ["功能", "使用功能", "产品功能", "颜色", "颜色分类", "适用人数"]
+    mul_dis_type = ["功能", "使用功能", "产品功能", "颜色", "颜色分类"]
     mul_dis_type = set(mul_dis_type)
