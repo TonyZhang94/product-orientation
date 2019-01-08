@@ -2,6 +2,20 @@
 
 from DBparam import *
 
+# class Outer99(object):
+#     host = $ip$
+#     port = $port$
+#     user = $username$
+#     password = $password$
+#
+#     DB = dict()
+#     DB["standard_library"] = "standard_library"
+#     DB["fact_library"] = "fact_library"
+#     DB["zhuican_web"] = "zhuican_web"
+#     DB["raw_mj_category"] = "raw_mj_category"
+#     DB["report_dg"] = "report_dg"
+#     DB["raw_tb_comment_notag"] = "raw_tb_comment_notag"
+
 
 DBDefault = Outer99
 
